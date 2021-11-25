@@ -1,0 +1,14 @@
+C:\Users\Milica\source\repos\WebApplicationApi\WebApplicationApi\bin\Debug\netcoreapp2.1\WebApplicationApi.deps.json
+C:\Users\Milica\source\repos\WebApplicationApi\WebApplicationApi\bin\Debug\netcoreapp2.1\WebApplicationApi.runtimeconfig.json
+C:\Users\Milica\source\repos\WebApplicationApi\WebApplicationApi\bin\Debug\netcoreapp2.1\WebApplicationApi.runtimeconfig.dev.json
+C:\Users\Milica\source\repos\WebApplicationApi\WebApplicationApi\bin\Debug\netcoreapp2.1\WebApplicationApi.dll
+C:\Users\Milica\source\repos\WebApplicationApi\WebApplicationApi\bin\Debug\netcoreapp2.1\WebApplicationApi.pdb
+C:\Users\Milica\source\repos\WebApplicationApi\WebApplicationApi\obj\Debug\netcoreapp2.1\WebApplicationApi.csprojAssemblyReference.cache
+C:\Users\Milica\source\repos\WebApplicationApi\WebApplicationApi\obj\Debug\netcoreapp2.1\WebApplicationApi.csproj.CoreCompileInputs.cache
+C:\Users\Milica\source\repos\WebApplicationApi\WebApplicationApi\obj\Debug\netcoreapp2.1\WebApplicationApi.RazorAssemblyInfo.cache
+C:\Users\Milica\source\repos\WebApplicationApi\WebApplicationApi\obj\Debug\netcoreapp2.1\WebApplicationApi.RazorAssemblyInfo.cs
+C:\Users\Milica\source\repos\WebApplicationApi\WebApplicationApi\obj\Debug\netcoreapp2.1\WebApplicationApi.AssemblyInfoInputs.cache
+C:\Users\Milica\source\repos\WebApplicationApi\WebApplicationApi\obj\Debug\netcoreapp2.1\WebApplicationApi.AssemblyInfo.cs
+C:\Users\Milica\source\repos\WebApplicationApi\WebApplicationApi\obj\Debug\netcoreapp2.1\WebApplicationApi.RazorTargetAssemblyInfo.cache
+C:\Users\Milica\source\repos\WebApplicationApi\WebApplicationApi\obj\Debug\netcoreapp2.1\WebApplicationApi.dll
+C:\Users\Milica\source\repos\WebApplicationApi\WebApplicationApi\obj\Debug\netcoreapp2.1\WebApplicationApi.pdb
